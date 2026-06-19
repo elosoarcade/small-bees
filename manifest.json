@@ -1,0 +1,24 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "Make mobs smaller by El Oso Arcade",
+        "name": "Small Bees (B)",
+        "uuid": "740e83d8-6b8f-4c8e-a510-bd3e938860fc",
+        "version": [ 4, 0, 0 ],
+        "min_engine_version": [ 1, 21, 41 ]
+    },
+    "metadata": {
+		    "authors": ["El Oso Arcade"],
+		    "license": "CC BY-NC-ND 4.0 - Small Bees MCBE Add-on",
+		    "product_type": "addon",
+		    "url": "https://github.com/elosoarcade/small-bees"
+	},    
+    "modules": [
+        {
+            "description": "Make mobs smaller by El Oso Arcade",
+            "type": "data",
+            "uuid": "2c7c6631-677a-4ad1-ac43-803751fc1d33",
+            "version": [ 2, 0, 0 ]
+        }
+    ]
+}
